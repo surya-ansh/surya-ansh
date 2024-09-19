@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **MySQL, TypeScript**, and **Docker**.
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, SQL**
 - 📫 How to reach me: **suryansh.singh.che22@itbhu.ac.in**
-- ⚡ Fun fact: **I love solving puzzles and playing Valorant
+- ⚡ Fun fact: I love solving puzzles and playing Valorant
 
 ## Technologies & Tools
 
